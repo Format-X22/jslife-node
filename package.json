@@ -1,0 +1,22 @@
+{
+  "name": "jslife-node",
+  "version": "0.0.1",
+  "description": "JSLIFE BlockChain node",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Format-X22/jslife-node.git"
+  },
+  "author": "Format-X22",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Format-X22/jslife-node/issues"
+  },
+  "homepage": "https://github.com/Format-X22/jslife-node#readme",
+  "dependencies": {
+    "gls-core-service": "git+https://github.com/GolosChain/core-service.git#4d9420a2fb7a32bccb6010a2b20341db8b18282f"
+  }
+}
